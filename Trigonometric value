@@ -1,0 +1,8 @@
+import math
+x = 10
+print('Sin')
+print(math.sin(x))
+print('Cos')
+print(math.cos(x))
+print('Tan')
+print(math.tan(x))
